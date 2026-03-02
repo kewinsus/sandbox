@@ -1,5 +1,5 @@
 
-class Auto{
+class Automovil{
     
     #marca
     #año
@@ -30,4 +30,5 @@ class Auto{
 let auto1 = new Auto("TOYOTA",2026)
 
 console.log(auto1)
+
 console.log(auto1.año)
