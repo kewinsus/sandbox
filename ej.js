@@ -32,3 +32,4 @@ let auto1 = new Auto("TOYOTAaaaaaaaaaaaaaa",2026)
 console.log(auto1)
 
 console.log(auto1.año)
+
