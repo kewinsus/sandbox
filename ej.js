@@ -27,7 +27,7 @@ class Auto{
  
 
 
-let auto1 = new Auto("Nissan",2026)
+let auto1 = new Auto("TOYOTA",2026)
 
 console.log(auto1)
 console.log(auto1.año)
